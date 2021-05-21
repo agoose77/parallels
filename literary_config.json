@@ -1,9 +1,1 @@
-{
-    "LiteraryBuildApp": {
-        "source": "parallels",
-        "package": "lib/parallels"
-    },
-    "LiteraryTestApp": {
-        "source": ["parallels"]
-    }
-}
+{}
