@@ -1,4 +1,9 @@
 # parallels
+[![pypi-badge][]][pypi] 
+
+[pypi-badge]: https://img.shields.io/pypi/v/literary
+[pypi]: https://pypi.org/project/literary
+
 Parallels is a [literary](https://github.com/agoose77/literary) powered library. 
 It provides an async API that mimics concurrent.futures, with support for task-graph executors.
 
